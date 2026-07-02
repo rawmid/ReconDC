@@ -23,7 +23,7 @@ ReconDC is a lightweight desktop application that lets you create and manage per
 5. Enjoy your custom Discord presence!
 
 
-##  Why Recon DC?
+##  Why ReconDC?
 
 ReconDC was built to make creating custom Discord Rich Presence simple, fast, and accessible for everyone—no programming knowledge required.
 
