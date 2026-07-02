@@ -2,7 +2,7 @@
 
 Run your own custom **Discord Rich Presence** with just a few clicks.
 
-Recond DC is a lightweight desktop application that lets you create and manage personalized Discord RPCs without writing any code. Simply enter your activity title, details, status, images, buttons, and other settings, then launch your Rich Presence instantly.
+Recon DC is a lightweight desktop application that lets you create and manage personalized Discord RPCs without writing any code. Simply enter your activity title, details, status, images, buttons, and other settings, then launch your Rich Presence instantly.
 
 ##  Features
 
@@ -26,7 +26,7 @@ Recond DC is a lightweight desktop application that lets you create and manage p
 
 *Add screenshots or GIFs here.*
 
-##  Why Recond DC?
+##  Why Recon DC?
 
-Recond DC was built to make creating custom Discord Rich Presence simple, fast, and accessible for everyone—no programming knowledge required.
+Recon DC was built to make creating custom Discord Rich Presence simple, fast, and accessible for everyone—no programming knowledge required.
 
